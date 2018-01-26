@@ -1,0 +1,9 @@
+{
+  "compilerOptions":{
+    "outDir":"compiladorTS",
+    "noEmitOnError": true,
+    "typeRoots":[
+      "node_modules/@types"
+    ]
+  }
+}
